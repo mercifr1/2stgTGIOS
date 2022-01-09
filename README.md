@@ -1,2 +1,2 @@
-# 2stgNLME
+# 2stgTGIOS
 Alternative 2-stage TGI-OS model
